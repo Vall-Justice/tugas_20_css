@@ -1,0 +1,70 @@
+.container{
+   width: 100%;
+   display: flex;
+   justify-content: space-around;
+
+}
+
+
+.container2 {
+   float: left;
+   display: flex; 
+   flex-direction: column; 
+   align-content: space-around;
+   background-color: red;
+  
+}
+
+
+.box {
+   width: 100px;
+   height: 50px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+}
+
+
+
+.box1 {
+   background-color: linen;
+}
+
+.box2 {
+   background-color: green;
+}
+
+.box3 {
+   background-color: purple;
+}
+
+.box4{
+   background-color: blue;
+}
+
+.box5 {
+   background-color: #00b694;
+}
+
+.box6 {
+   background-color: yellow;
+}
+
+.box7 {
+   background-color: tomato;
+  
+}
+
+.box8 {
+   background-color: orange;
+}
+
+.box9 {
+   background-color: lightgreen;
+}
+
+.box10 {
+   background-color: gray;
+}
+
